@@ -47,13 +47,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso na DIO Os Pilares da Orientacao a Objetos",
+      "url": "https://github.com/nonato3009/dio-pilares-POO",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso feito na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/nonato3009/js-developer-portfolio",
       "github": true
     }
   ],
